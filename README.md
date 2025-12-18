@@ -11,9 +11,9 @@ This project is a Python application that demonstrates how compound interest wor
 This project was built to deeply understand how compound interest works, including how interest grows on interest over time.
 
 ## Example
-Initial amount: 650\n
-Monthly contribution: 650\n
-Annual rate: 12%\n
-Years: 5\n
+Initial amount: 650
+Monthly contribution: 650
+Annual rate: 12%
+Years: 5
 
 Final value ≈ 54,266
