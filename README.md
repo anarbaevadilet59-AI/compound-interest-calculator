@@ -15,5 +15,5 @@ Python-based compound interest calculator with a simple GUI.
 - 'plotter.py' - chart plotting
 
 ## How to run
-'''bash
+```bash
 python main.py
